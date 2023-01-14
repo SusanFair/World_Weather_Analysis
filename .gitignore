@@ -1,3 +1,11 @@
+# Adding my API keys file
+config.py
+OpenWater_key.ipynb
+
+# Adding additional online files
+API_practice.ipynb
+randon_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -80,7 +88,6 @@ target/
 # IPython
 profile_default/
 ipython_config.py
-config.py
 
 # pyenv
 .python-version
