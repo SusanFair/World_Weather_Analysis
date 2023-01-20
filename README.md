@@ -7,6 +7,6 @@ This Geo Mapping project was a discovery of the power of Python and mapping with
 
 Selecting 4 cities that met the customer's basic criteria, the project provided an itinerary to travel through 4 ideal cities within their selected region.
 
-https://github.com/SusanFair/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png?raw=true
+![Itinerary Map]https://github.com/SusanFair/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png)
 
 Enjoy!
